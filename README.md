@@ -25,7 +25,7 @@ There are 3 optional flags you can run:
     3. `-r` will completely retrain the dataset from scratch.
 ```
 cd Coyote-Vision/
-python3 main.py -d
+python3 main.py -d -r
 ```
 
 You will be asked whether to allow the program access to your camera so make sure to click 'Allow'.
