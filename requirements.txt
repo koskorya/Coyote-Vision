@@ -1,0 +1,4 @@
+opencv-python
+face_recognition
+imutils
+pyobjc-framework-Quartz
