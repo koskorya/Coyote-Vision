@@ -1,4 +1,5 @@
 opencv-python
+cmake
 face_recognition
 imutils
 pyobjc-framework-Quartz
