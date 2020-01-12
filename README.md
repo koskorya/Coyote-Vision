@@ -18,11 +18,13 @@ pip3 install -r requirements.txt
 ## Running Coyote-Vision
 
 There are 3 optional flags you can run:
+
     1. `-d` will display what your webcam sees and the face the software recognizes. It will display 'Me' for the trained dataset and 'Unknown' for any face not recognized.
 
     2. `-a` will allow you to add more images to your existing dataset and retrain the model.
 
     3. `-r` will completely retrain the dataset from scratch.
+    
 ```
 cd Coyote-Vision/
 python3 main.py -d -r
