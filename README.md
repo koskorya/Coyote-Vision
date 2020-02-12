@@ -1,6 +1,6 @@
 # Coyote-Vision
 
-Coyote-Vision is designed to allow any user to train an image classfication model locally on their machine to detect your own face. Once the model is trained, it will use the built in camera on your machine (mac only) to make sure you are at your keyboard while the machine is unlocked. If the model doesn't detect your face for about 8 seconds, your machine will become locked automatically.
+Coyote-Vision is designed to allow any user to train an image classfication model locally on their machine to detect your own face. Once the model is trained, it will use the built in camera on your machine to make sure you are at your keyboard while the machine is unlocked. If the model doesn't detect your face for about 8 seconds, your machine will become locked automatically (mac only).
 
 ### Prerequisites
 

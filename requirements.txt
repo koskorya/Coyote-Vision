@@ -1,5 +1,5 @@
-opencv-python
-cmake
-face_recognition
-imutils
-pyobjc-framework-Quartz
+opencv-python==4.1.2.30
+cmake==3.15.3
+face_recognition==1.2.3
+imutils==0.5.3
+pyobjc-framework-Quartz==6.1
